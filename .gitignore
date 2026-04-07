@@ -1,0 +1,16 @@
+# Dataset original (carpeta extraida del zip)
+Dataset_kapak_6_marzo_2023/
+
+# OS files
+__MACOSX/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
